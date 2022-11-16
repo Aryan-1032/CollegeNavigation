@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 10%;
+  bottom: 0;
+  width: 100%;
+}
+
+.card{
+  margin-top: 3em;
+}
+
+#instructions {
+  position: absolute;
+  margin-top: 100px;
+  width: 25%;
+  top: 0;
+  bottom: 20%;
+  padding: 20px;
+  background-color: #fff;
+  overflow-y: scroll;
+  font-family: sans-serif;
+}
